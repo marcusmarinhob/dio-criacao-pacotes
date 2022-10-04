@@ -41,9 +41,9 @@ The package calculator is used to:
 
 Use the package manager [pip](https://pip.pypa.io/en/stable) to calculator
 
-'''bash
+```bash
 pip install calculator
-'''
+```
 
 ## Author
 Marcus Marinho
