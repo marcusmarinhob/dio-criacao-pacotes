@@ -2,7 +2,7 @@
 Repositório criado para estudar criação de pacotes em Python.
 
 <h1 align="center">
-    <img alt="Python Codes" title="#PythonCodes" src="./logo.png" width="480px" />
+    <img alt="Python Codes" title="#PythonCodes" src="./logo.png" width="450px" />
 </h1>
 
 <h4 align="center"> 
