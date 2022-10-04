@@ -43,6 +43,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable) to calculator
 
 '''bash
 pip install calculator
+'''
 
 ## Author
 Marcus Marinho
