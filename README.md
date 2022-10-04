@@ -47,3 +47,6 @@ pip install calculator
 
 ## Author
 Marcus Marinho
+
+## License
+[MIT](http://choosealicense.com/licenses/mit)
