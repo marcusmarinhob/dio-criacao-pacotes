@@ -26,3 +26,23 @@ Repositório criado para estudar criação de pacotes em Python.
     <img alt="Stargazers" src="https://img.shields.io/github/stars/marcusmarinhob/dio-criacao-pacotes?style=social">
   </a>
 </p>
+
+
+# Calculator
+
+Description.
+The package calculator is used to:
+  Add
+  Subtract
+  Multiply
+  Divide
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable) to calculator
+
+'''bash
+pip install calculator
+
+## Author
+Marcus Marinho
