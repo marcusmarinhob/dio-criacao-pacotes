@@ -32,10 +32,10 @@ Repositório criado para estudar criação de pacotes em Python.
 
 Description.
 The package calculator is used to:
-  Add
-  Subtract
-  Multiply
-  Divide
+  - Add
+  - Subtract
+  - Multiply
+  - Divide
 
 ## Installation
 
